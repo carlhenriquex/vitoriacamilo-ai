@@ -1,14 +1,140 @@
-## Hi there 👋
+<div align="center">
+  <img src="welcome.svg" width="70%" alt="Bem-vinda ao meu perfil" />
+  
+  <br><br>
 
-**vitoriacamilo-ai/vitoriacamilo-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 style="color:#e889c3; font-weight: bold;">🌸 Vitória Camilo — Ela/Dela 🌸</h1>
+  <p><strong style="color:#e889c3;">Doutoranda em Bioquímica & Biologia Molecular • IA • Machine Learning • Ciência de Dados • Bioinformática</strong></p>
 
-Here are some ideas to get you started:
+  <!-- Badges fofinhos -->
+  <img src="https://img.shields.io/badge/✨_rosa_&_cottagecore-FFC7E6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_tecnologia-FF9ECD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧬_bioinformática-F7A8C7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_IA_&_ML-F5C6EC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌷_saúde_e_biologia-FAD1E8?style=for-the-badge" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+<p align="center">🌸 ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ Abaixo está um pouquinho de mim e do que eu construo ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ 🌸</p>
+
+---
+
+## 🌷 Sobre mim
+
+- 🧬 **Doutoranda em Bioquímica e Biologia Molecular**  
+- 💻 Focada em **Tecnologia**, **Bioinformática**, **Machine Learning**, **IA** e **Ciência de Dados aplicados à saúde**  
+- 🔬 Interesse especial em **modelagem 3D de moléculas** e aplicações computacionais em saúde e biotecnologia  
+- 🌿 Aesthetic rosa + cottagecore combinada com uma identidade técnica e científica  
+- 🎮 Apaixonada por **jogos**, **natureza**, **música (aprendendo bateria)**, **animais**, **Hello Kitty** e por tudo que deixa a vida mais leve  
+- 🌈 Participante da trilha de desenvolvimento no **HackaPride**
+
+---
+
+<div align="center"><img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-ribbon-pink.png" width="80%"></div>
+
+## 🌼 Áreas de Especialização
+- 🌸 **IA e Machine Learning aplicados à saúde**  
+- 🌸 **Ciência de Dados aplicada à biologia e biomedicina**  
+- 🌸 **Bioinformática e pipelines computacionais**  
+- 🌸 **Modelagem molecular e estrutura 3D**  
+- 🌸 **Estatística aplicada à pesquisa científica**  
+- 🌸 **Biotecnologia e análises computacionais**  
+
+---
+
+<div align="center"><img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-hearts-pink.png" width="80%"></div>
+
+## 💻 Tecnologia
+- Programação aplicada à ciência  
+- Automação de análises e pipelines  
+- Desenvolvimento de scripts para pesquisa  
+- Aplicações de IA/ML para dados biológicos  
+- Ferramentas computacionais para saúde  
+
+---
+
+## 📊 Ciência de Dados
+- Análise exploratória  
+- Python para aplicações científicas  
+- Visualização (Power BI & Python)  
+- Machine Learning (aprendizado contínuo)  
+- Extração e limpeza de dados biomédicos  
+
+---
+
+## 🧬 Bioinformática
+- Modelagem molecular e 3D  
+- BLAST, FASTA/FASTQ  
+- Manipulação de bancos biológicos  
+- Alinhamento de sequências  
+- BioPython (em progresso)  
+
+---
+
+<div align="center"><img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-flower-pink.png" width="80%"></div>
+
+# 💡 Hard Skills 
+### 🖥️ Programação & Dados
+- Python (Pandas, Numpy, Sklearn, Matplotlib)  
+- R para análise estatística  
+- SQL  
+- Power BI  
+- Git & GitHub  
+- Google Colab / Jupyter  
+
+### 🔬 Bioinformática
+- Docking molecular  
+- PyMOL, Chimera, SwissModel  
+- NCBI Tools  
+- BLAST / FASTA / FASTQ  
+
+### 🔎 Outros conhecimentos
+- Análise estatística  
+- Documentação científica  
+- Visualização científica elegante  
+
+---
+
+# 🌟 Soft Skills
+- Comunicação clara  
+- Organização  
+- Resolução de problemas  
+- Proatividade  
+- Criatividade  
+- Trabalho colaborativo  
+- Aprendizado rápido  
+
+---
+
+<div align="center"><img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-clouds-pink.png" width="80%"></div>
+
+## 🌸 Projetos em construção
+- 🧬 Scripts para análise de sequências  
+- 🧪 Modelagem molecular em Python  
+- 🤖 ML aplicado a dados biológicos  
+- 🧹 Automação de pipelines científicos  
+- 📊 Dashboards biomédicos  
+- 🌿 Projetos educacionais em bioinformática  
+
+---
+
+<div align="center"><img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-ribbon-pink.png" width="80%"></div>
+
+## 🌿 Vamos nos conectar?
+🌸 **Email profissional:** vitoria.camilo@ufpe.br  
+🌸 **LinkedIn:** https://www.linkedin.com/in/vitoria-camilo-b538a0226/
+
+---
+
+<div align="center">
+
+### 🌸 Obrigada por visitar meu perfil! 🌷  
+<strong style="color:#e889c3;">“Mulheres na ciência não esperam permissão — elas constroem, lideram e florescem.”</strong>  
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ellesec/cute-dividers/main/divider-hearts-pink.png" width="60%">
+</div>
+
